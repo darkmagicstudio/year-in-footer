@@ -1,0 +1,30 @@
+{
+    "name": "@killianog/dark-magic",
+    "version": "0.0.0",
+    "description": "🔮",
+    "main": "./dist/",
+    "scripts": {
+        "test": "echo \"No test specified\""
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "attributes",
+        "css",
+        "web design",
+        "dark mode",
+        "dark theme",
+        "javascript",
+        "data-attributes",
+        "webflow"
+    ],
+    "author": "killianog",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/killianog/dark-magic/issues"
+    },
+    "homepage": "https://killianog.github.io/dark-magic/"
+
+}
