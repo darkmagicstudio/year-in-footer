@@ -1,0 +1,1 @@
+[![Verified on Openbase](https://badges.openbase.com/js/verified/@darkmagicstudio/year-in-footer.svg?token=0rOsEbwhNCrAZzD40F9ifQKo/sWInknFOo853Cgv6e4=)](https://openbase.com/js/@darkmagicstudio/year-in-footer?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
